@@ -1,0 +1,11 @@
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Statistics\bin\Debug\Accord.Statistics.dll
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Statistics\bin\Debug\Accord.Statistics.pdb
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Statistics\obj\Debug\Accord.Statistics.csprojResolveAssemblyReference.cache
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Statistics\obj\Debug\Accord.Statistics.dll
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Statistics\obj\Debug\Accord.Statistics.pdb
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Statistics\bin\Debug\Accord.Statistics.dll
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Statistics\bin\Debug\Accord.Statistics.pdb
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Statistics\obj\Debug\Accord.Statistics.csprojAssemblyReference.cache
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Statistics\obj\Debug\Accord.Statistics.csproj.CoreCompileInputs.cache
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Statistics\obj\Debug\Accord.Statistics.dll
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Statistics\obj\Debug\Accord.Statistics.pdb

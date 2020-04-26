@@ -1,0 +1,2 @@
+C:\Users\SHUBHAM\Desktop\accord-panorama-SURF\Imaging\Panorama (SURF)\obj\x86\Debug\Panorama (SURF).csprojAssemblyReference.cache
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-SURF\Imaging\Panorama (SURF)\obj\x86\Debug\Panorama (SURF).csprojAssemblyReference.cache

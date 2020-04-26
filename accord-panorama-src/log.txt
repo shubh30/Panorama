@@ -1,0 +1,4 @@
+i=24    j=951     Sum:95172      matchingPos{X=24,Y=951}
+i=36    j=41     Sum:86422      matchingPos{X=36,Y=41}
+i=36    j=42     Sum:59037      matchingPos{X=36,Y=42}
+i=415    j=25     Sum:36158      matchingPos{X=415,Y=25}

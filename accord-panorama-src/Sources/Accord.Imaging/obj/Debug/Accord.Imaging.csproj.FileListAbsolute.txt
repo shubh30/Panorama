@@ -1,0 +1,16 @@
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Imaging\bin\Debug\Accord.Imaging.dll
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Imaging\bin\Debug\Accord.Imaging.pdb
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Imaging\bin\Debug\AForge.dll
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Imaging\bin\Debug\AForge.Imaging.dll
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Imaging\obj\Debug\Accord.Imaging.csprojResolveAssemblyReference.cache
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Imaging\obj\Debug\Accord.Imaging.dll
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Imaging\obj\Debug\Accord.Imaging.pdb
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Imaging\bin\Debug\Accord.Imaging.dll
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Imaging\bin\Debug\Accord.Imaging.pdb
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Imaging\bin\Debug\AForge.dll
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Imaging\bin\Debug\AForge.Imaging.dll
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Imaging\obj\Debug\Accord.Imaging.csprojAssemblyReference.cache
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Imaging\obj\Debug\Accord.Imaging.csproj.CoreCompileInputs.cache
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Imaging\obj\Debug\Accord.Imaging.csproj.CopyComplete
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Imaging\obj\Debug\Accord.Imaging.dll
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Imaging\obj\Debug\Accord.Imaging.pdb

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Accord.NET">
+</Property><Property Name="Solution File" Value="G:\SN\Projects\accord-panorama-src\Sources\Accord.NET.sln">
+</Property><Property Name="Date" Value="26 August 2018">
+</Property><Property Name="Time" Value="21:58">
+</Property></Properties><Event ErrorLevel="0" Project="Accord.Math" Source="Accord.Math\Accord.Math.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Accord.Math" Source="Accord.Math\Accord.Math.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Accord.Statistics" Source="Accord.Statistics\Accord.Statistics.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Accord.Statistics" Source="Accord.Statistics\Accord.Statistics.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Accord.Imaging" Source="Accord.Imaging\Accord.Imaging.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Accord.Imaging" Source="Accord.Imaging\Accord.Imaging.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Accord.MachineLearning" Source="Accord.MachineLearning\Accord.MachineLearning.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Accord.MachineLearning" Source="Accord.MachineLearning\Accord.MachineLearning.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Panorama" Source="..\Samples\Imaging\Panorama\Panorama.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Panorama" Source="..\Samples\Imaging\Panorama\Panorama.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Accord.NET.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Accord.NET.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Panorama" Source="..\Samples\Imaging\Panorama\Panorama.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Accord.Math" Source="Accord.Math\Accord.Math.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Accord.Math" Source="Accord.Math\Accord.Math.csproj" Description="Created rule set file &quot;G:\SN\Projects\accord-panorama-src\Sources\Accord.Math\Migrated rules for Accord.Math.ruleset&quot; for the &quot;Debug (Any CPU)&quot; configuration.">
+</Event><Event ErrorLevel="0" Project="Accord.Math" Source="Accord.Math\Accord.Math.csproj" Description="Created rule set file &quot;G:\SN\Projects\accord-panorama-src\Sources\Accord.Math\Migrated rules for Accord.Math (2).ruleset&quot; for the &quot;Release (Any CPU)&quot; configuration.">
+</Event><Event ErrorLevel="0" Project="Accord.Statistics" Source="Accord.Statistics\Accord.Statistics.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Accord.Statistics" Source="Accord.Statistics\Accord.Statistics.csproj" Description="Created rule set file &quot;G:\SN\Projects\accord-panorama-src\Sources\Accord.Statistics\Migrated rules for Accord.Statistics.ruleset&quot; for the &quot;Debug (Any CPU)&quot; configuration.">
+</Event><Event ErrorLevel="0" Project="Accord.Statistics" Source="Accord.Statistics\Accord.Statistics.csproj" Description="Created rule set file &quot;G:\SN\Projects\accord-panorama-src\Sources\Accord.Statistics\Migrated rules for Accord.Statistics (2).ruleset&quot; for the &quot;Release (Any CPU)&quot; configuration.">
+</Event><Event ErrorLevel="0" Project="Accord.Imaging" Source="Accord.Imaging\Accord.Imaging.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Accord.Imaging" Source="Accord.Imaging\Accord.Imaging.csproj" Description="Created rule set file &quot;G:\SN\Projects\accord-panorama-src\Sources\Accord.Imaging\Migrated rules for Accord.Imaging.ruleset&quot; for the &quot;Debug (Any CPU)&quot; configuration.">
+</Event><Event ErrorLevel="0" Project="Accord.MachineLearning" Source="Accord.MachineLearning\Accord.MachineLearning.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Accord.MachineLearning" Source="Accord.MachineLearning\Accord.MachineLearning.csproj" Description="Created rule set file &quot;G:\SN\Projects\accord-panorama-src\Sources\Accord.MachineLearning\Migrated rules for Accord.MachineLearning.ruleset&quot; for the &quot;Debug (Any CPU)&quot; configuration.">
+</Event><Event ErrorLevel="0" Project="Accord.MachineLearning" Source="Accord.MachineLearning\Accord.MachineLearning.csproj" Description="Created rule set file &quot;G:\SN\Projects\accord-panorama-src\Sources\Accord.MachineLearning\Migrated rules for Accord.MachineLearning (2).ruleset&quot; for the &quot;Release (Any CPU)&quot; configuration.">
+</Event></UpgradeLog>

@@ -1,0 +1,16 @@
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Math\bin\Debug\Accord.Math.dll
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Math\bin\Debug\Accord.Math.pdb
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Math\bin\Debug\AForge.dll
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Math\bin\Debug\AForge.Math.dll
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Math\obj\Debug\Accord.Math.dll
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Math\obj\Debug\Accord.Math.pdb
+G:\SN\Projects\accord-panorama-src\Sources\Accord.Math\obj\Debug\Accord.Math.csprojResolveAssemblyReference.cache
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Math\bin\Debug\Accord.Math.dll
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Math\bin\Debug\Accord.Math.pdb
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Math\bin\Debug\AForge.dll
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Math\bin\Debug\AForge.Math.dll
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Math\obj\Debug\Accord.Math.csprojAssemblyReference.cache
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Math\obj\Debug\Accord.Math.csproj.CoreCompileInputs.cache
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Math\obj\Debug\Accord.Math.csproj.CopyComplete
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Math\obj\Debug\Accord.Math.dll
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.Math\obj\Debug\Accord.Math.pdb

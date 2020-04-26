@@ -1,0 +1,11 @@
+G:\SN\Projects\accord-panorama-src\Sources\Accord.MachineLearning\bin\Debug\Accord.MachineLearning.dll
+G:\SN\Projects\accord-panorama-src\Sources\Accord.MachineLearning\bin\Debug\Accord.MachineLearning.pdb
+G:\SN\Projects\accord-panorama-src\Sources\Accord.MachineLearning\obj\Debug\Accord.MachineLearning.csprojResolveAssemblyReference.cache
+G:\SN\Projects\accord-panorama-src\Sources\Accord.MachineLearning\obj\Debug\Accord.MachineLearning.dll
+G:\SN\Projects\accord-panorama-src\Sources\Accord.MachineLearning\obj\Debug\Accord.MachineLearning.pdb
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.MachineLearning\bin\Debug\Accord.MachineLearning.dll
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.MachineLearning\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.MachineLearning\obj\Debug\Accord.MachineLearning.csprojAssemblyReference.cache
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.MachineLearning\obj\Debug\Accord.MachineLearning.csproj.CoreCompileInputs.cache
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.MachineLearning\obj\Debug\Accord.MachineLearning.dll
+C:\Users\SHUBHAM\Desktop\MatrixWork\Panorama\accord-panorama-src\Sources\Accord.MachineLearning\obj\Debug\Accord.MachineLearning.pdb
